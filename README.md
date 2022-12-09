@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-thai12340pa/thai12340pa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thai12340pa/severlist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
